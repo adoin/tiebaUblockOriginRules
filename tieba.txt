@@ -1,0 +1,46 @@
+! 2019/8/15 https://tieba.baidu.com
+tieba.baidu.com###forum_recommend
+tieba.baidu.com##.topic-search-back-fixed.topic_list_box
+tieba.baidu.com##.search-back-fixed.search_back_box
+tieba.baidu.com##.celebrity.aside_region
+tieba.baidu.com##.app_download_box.aside_region
+
+! 2019/8/16 https://tieba.baidu.com
+tieba.baidu.com##.cps_wrap-fixed.cps_wrap
+tieba.baidu.com###celebrity
+tieba.baidu.com##.app_download_box.region_bright
+tieba.baidu.com##.cps_wrap
+
+! 2019/10/21 https://weibo.com
+weibo.com##.PCD_pictext_g
+
+! 2019/10/29 https://tieba.baidu.com
+tieba.baidu.com###threadListGroupCnt
+
+! 2019/11/11 https://tieba.baidu.com
+tieba.baidu.com##.u_menu_member.u_menu_item
+
+! 2019/12/31 https://www.antdv.com
+www.antdv.com###geektime
+
+! 2021-06-07 https://tieba.baidu.com
+tieba.baidu.com##.tbui_slideshow_container.plat_recom_carousel
+
+! 2022-01-11 https://tieba.baidu.com
+tieba.baidu.com##.u_official
+
+! 2022-07-13 https://tieba.baidu.com
+tieba.baidu.com##.j_tbnav_tab.more-config-navtab > .j_tbnav_tab_a
+
+! 2022-07-13 https://tieba.baidu.com
+tieba.baidu.com##.j_thread_list:has(.ec-tuiguang)
+
+! 2022-08-04 https://tieba.baidu.com
+tieba.baidu.com##.l_post:has(.ec-tuiguang) 
+
+! 2022-08-04 https://tieba.baidu.com
+tieba.baidu.com##.l_post:has(span[data-field="{\"user_id\":888465658}"])
+
+! 2022-08-04 https://tieba.baidu.com
+tieba.baidu.com##.j_thread_list:has(span[data-field="{\"user_id\":888465658}"])
+
